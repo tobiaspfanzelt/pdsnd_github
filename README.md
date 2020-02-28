@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+28-02-2020
 
 ### Project Title
-Replace the Project Title
+bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+user can choose city from a list of US cities as well as month and day
+and the program shows statistical evaluation on the use of a bikeshare companies bikes.
 
 ### Files used
-Include the files used
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+nothing to note...
