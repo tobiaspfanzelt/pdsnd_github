@@ -8,7 +8,8 @@ CITY_DATA = { 'Chicago': pd.read_csv('chicago.csv'),
     'New York City': pd.read_csv('new_york_city.csv'),
     'Washington': pd.read_csv('washington.csv') }
 
-
+#This is my second code change:
+#This function is used to ask the user which data he or she wants to see!
 def get_filters():
     """
         Asks user to specify a city, month, and day to analyze.
